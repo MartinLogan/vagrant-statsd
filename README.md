@@ -19,7 +19,7 @@ My intent was to set up a vagrant box to just do the monitoring, so it will just
 ~~~~
 
 ## Viewing and sending data to the virtualbox
-1. Point your brower to http://localhost:18080 - You should see the Grapite welcome screen
+1. Point your brower to [http://localhost:18080](http://localhost:18080) - You should see the Grapite welcome screen
 1. Run phantomas with the appropriate settings (See below)
 1. On Graphite add data to the graph - the timings from the example below will be under Graphite stata.timings.google.home
 
